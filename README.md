@@ -68,8 +68,15 @@ For server and client, installation and launch : See [detailed installation inst
 Please follow 'detailed installation instruction' if you meet any issue.
 
 <p  align="center" float="center">
-[![Installation video](https://img.youtube.com/vi/T-8rsVPIixc/0.jpg)](https://www.youtube.com/watch?v=T-8rsVPIixc)
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/T-8rsVPIixc" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 </p>
+
+[![Installation video](https://img.youtube.com/vi/T-8rsVPIixc/0.jpg)](https://www.youtube.com/watch?v=T-8rsVPIixc)
+
 
 ###### Installation
 

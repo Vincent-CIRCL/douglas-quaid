@@ -67,6 +67,7 @@ For server and client, installation and launch : See [detailed installation inst
 ### TLDR ; I want it to work ! 
 Please follow 'detailed installation instruction' if you meet any issue.
 
+See a full video tutorial about how to install, configure and use Douglas-Quaid, at this link : 
 [![Installation video](https://img.youtube.com/vi/T-8rsVPIixc/0.jpg)](https://www.youtube.com/watch?v=T-8rsVPIixc)
 
 ###### Installation
